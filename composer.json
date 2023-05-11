@@ -1,0 +1,15 @@
+{
+    "name": "smolan/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Smolan\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Anastasia Smolyakova",
+            "email": "smolyakova_av@mail.ru"
+        }
+    ],
+    "require": {}
+}
